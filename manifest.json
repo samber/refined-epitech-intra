@@ -1,0 +1,20 @@
+{
+    "name": "Refined Epitech Intra",
+    "description": "Improve Epitech Intranet",
+    "version": "1",
+    "manifest_version": 2,
+    "permissions": [
+        "tabs",
+        "https://intra.epitech.eu/*"
+    ],
+    "content_scripts": [{
+        "matches": ["https://intra.epitech.eu/*"],
+        "js": ["lib/jquery.min.js", "contentscript.js"]
+    }],
+    "icons": {
+        "16": "icon.png",
+        "32": "icon-32.png",
+        "128": "icon-128.png",
+        "300": "icon-300.png"
+    }
+}
