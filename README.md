@@ -14,4 +14,5 @@ https://chrome.google.com/webstore/detail/aigipchfebngajcnmfekfdkfaokbeadk
 
 ## Update
 
-https://chrome.google.com/webstore/devconsole/aigipchfebngajcnmfekfdkfaokbeadk
+Chrome: https://chrome.google.com/webstore/devconsole/aigipchfebngajcnmfekfdkfaokbeadk
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/refined-epitech-intra/
